@@ -6,15 +6,15 @@ A simple and responsive Password Generator built with **HTML, CSS, and JavaScrip
 
 ## Features
 
-- ✅ Generate random secure passwords
-- ✅ Adjustable password length
-- ✅ Include Uppercase Letters (A-Z)
-- ✅ Include Lowercase Letters (a-z)
-- ✅ Include Numbers (0-9)
-- ✅ Include Symbols (!@#$%^&*)
-- ✅ Copy password to clipboard
-- ✅ Clear generated password
-- ✅ Responsive and modern UI
+- Generate random secure passwords
+- Adjustable password length
+- Include Uppercase Letters (A-Z)
+- Include Lowercase Letters (a-z)
+- Include Numbers (0-9)
+- Include Symbols (!@#$%^&*)
+- Copy password to clipboard
+- Clear generated password
+- Responsive and modern UI
 
 ---
 
@@ -63,9 +63,7 @@ Simply open `index.html` in your browser.
 
 ### Main Interface
 
-![Password Generator](password-generator.png)
-
-> Create a folder named `screenshots` and add your project screenshots there.
+<img width="1196" height="730" alt="password-generator.png" src="https://github.com/user-attachments/assets/01b3eacf-f21d-4b6d-9e3e-63fa3e297022" />
 
 ---
 
