@@ -31,6 +31,8 @@ A simple and responsive Password Generator built with **HTML, CSS, and JavaScrip
 ```text
 password-generator/
 │
+├── screenshots/
+│   └── password-generator.png
 ├── index.html
 ├── style.css
 ├── app.js
