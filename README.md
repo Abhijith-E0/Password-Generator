@@ -63,7 +63,7 @@ Simply open `index.html` in your browser.
 
 ### Main Interface
 
-<img width="1196" height="730" alt="password-generator.png" src="https://github.com/user-attachments/assets/01b3eacf-f21d-4b6d-9e3e-63fa3e297022" />
+![Password Generator](screenshots/password-generator.png)
 
 ---
 
