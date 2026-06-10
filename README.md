@@ -61,8 +61,6 @@ Simply open `index.html` in your browser.
 
 ## 📸 Screenshot
 
-## 📸 Screenshot
-
 ![Password Generator](./screenshots/password-generator.png)
 ---
 
