@@ -60,8 +60,10 @@ Simply open `index.html` in your browser.
 ---
 
 ## 📸 Screenshot
-![Password Generator](screenshots/password-generator.png)
 
+## 📸 Screenshot
+
+![Password Generator](./screenshots/password-generator.png)
 ---
 
 ## Future Enhancements
