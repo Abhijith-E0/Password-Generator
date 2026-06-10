@@ -59,10 +59,7 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-
+## 📸 Screenshot
 ![Password Generator](screenshots/password-generator.png)
 
 ---
