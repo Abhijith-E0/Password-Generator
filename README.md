@@ -63,9 +63,7 @@ Simply open `index.html` in your browser.
 
 ### Main Interface
 
-```md
-![Password Generator](screenshots/password-generator.png)
-```
+![Password Generator](password-generator.png)
 
 > Create a folder named `screenshots` and add your project screenshots there.
 
