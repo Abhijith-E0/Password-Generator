@@ -1,10 +1,10 @@
-# 🔐 Password Generator
+# Password Generator
 
 A simple and responsive Password Generator built with **HTML, CSS, and JavaScript**. Generate strong and secure passwords with customizable options and copy them to your clipboard instantly.
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ Generate random secure passwords
 - ✅ Adjustable password length
@@ -18,7 +18,7 @@ A simple and responsive Password Generator built with **HTML, CSS, and JavaScrip
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ A simple and responsive Password Generator built with **HTML, CSS, and JavaScrip
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 password-generator/
@@ -39,7 +39,7 @@ password-generator/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the Repository
 
@@ -69,7 +69,7 @@ Simply open `index.html` in your browser.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Password Strength Indicator
 - Dark/Light Theme Toggle
